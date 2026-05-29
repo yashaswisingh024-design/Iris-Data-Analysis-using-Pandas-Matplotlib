@@ -84,7 +84,3 @@ Yashaswi Singh
 - Inspired by academic coursework and data analysis practice
 
 
-
-⭐ Acknowledgements
--Dataset provided by Kaggle
--Inspired by academic coursework and data analysis practice
